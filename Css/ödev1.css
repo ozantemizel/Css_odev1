@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+.btn {
+    font-style: italic;
+    float: left;
+    border-radius: 5px ;
+    /* padding-left: 50px; */
+    padding-top: 0;
+}
+button {
+    background-color: yellow;
+    font-style: italic;
+    font-size: 20px;
+    border-radius: 50px;
+}
+div {
+    background-color: black;
+    padding: 10px;
+}
+td {
+    color: white;
+}
+p {
+    color: white;
+}
